@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/registerpage/static/css/main.71eeac02.chunk.css",
+    "main.js": "/registerpage/static/js/main.4f5e9879.chunk.js",
+    "main.js.map": "/registerpage/static/js/main.4f5e9879.chunk.js.map",
+    "runtime-main.js": "/registerpage/static/js/runtime-main.cb59b164.js",
+    "runtime-main.js.map": "/registerpage/static/js/runtime-main.cb59b164.js.map",
+    "static/css/2.ac368f4f.chunk.css": "/registerpage/static/css/2.ac368f4f.chunk.css",
+    "static/js/2.6d543a17.chunk.js": "/registerpage/static/js/2.6d543a17.chunk.js",
+    "static/js/2.6d543a17.chunk.js.map": "/registerpage/static/js/2.6d543a17.chunk.js.map",
+    "index.html": "/registerpage/index.html",
+    "precache-manifest.91dc32b0014b1634dca91cdcaf33c1fc.js": "/registerpage/precache-manifest.91dc32b0014b1634dca91cdcaf33c1fc.js",
+    "service-worker.js": "/registerpage/service-worker.js",
+    "static/css/2.ac368f4f.chunk.css.map": "/registerpage/static/css/2.ac368f4f.chunk.css.map",
+    "static/css/main.71eeac02.chunk.css.map": "/registerpage/static/css/main.71eeac02.chunk.css.map",
+    "static/js/2.6d543a17.chunk.js.LICENSE.txt": "/registerpage/static/js/2.6d543a17.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/registerpage/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/registerpage/static/media/fa-solid-900.f3a7d3b5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb59b164.js",
+    "static/css/2.ac368f4f.chunk.css",
+    "static/js/2.6d543a17.chunk.js",
+    "static/css/main.71eeac02.chunk.css",
+    "static/js/main.4f5e9879.chunk.js"
+  ]
+}
